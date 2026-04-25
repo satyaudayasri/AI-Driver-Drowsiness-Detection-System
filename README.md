@@ -137,14 +137,7 @@ Camera → Frame Capture
 
 ---
 
-## 👨‍💻 Developed By
 
-**[Your Name]**  
-B.Tech [Your Branch]  
-[Your College Name]  
-[Year]
-
----
 
 ## 📄 License
 
